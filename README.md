@@ -1,5 +1,7 @@
 # CSCE636Project
-Pytorch implementation of CartoonGAN(CVPR 2018)
+* Pytorch implementation of CartoonGAN(CVPR 2018)
+* The pytorchCart folder contains all the code for train and the moTest contains all the code for test.
+As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
 ### 1.Download VGG19
 [VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
