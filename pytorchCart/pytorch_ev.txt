@@ -1,7 +1,0 @@
-opencv 3.3.1
-cuda100 1.0
-cudatoolkit 10.0.130
-hdf5 1.10.1
-python 3.6.4
-pytorch 0.4.1
-torchvision 0.2.2.post3
