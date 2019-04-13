@@ -4,8 +4,9 @@
 * Because of size limitation, I will not attach the dataset for training here.
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
-### 1.Download VGG19
-[VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
+### 1.Download model
+* [VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
+* [CartoonGAN model](https://drive.google.com/file/d/1ED74si4FqZKZlsrsRjWkODxa_xBlOdPD/view?usp=sharing)
 ### 2.Train
 ```
 python CartoonGAN.py --name cartoonShinkaiStyle --src_data src_data --tgt_data tgt_data --vgg_model vgg19.pth
