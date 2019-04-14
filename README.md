@@ -5,7 +5,7 @@
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
 ### 1.Download model
-[VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
+* [VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
 
 ### 2.Train
 ```
