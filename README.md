@@ -5,8 +5,8 @@
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
 ### 1.Download model
-* [VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
-* [CartoonGAN model](https://drive.google.com/file/d/1ED74si4FqZKZlsrsRjWkODxa_xBlOdPD/view?usp=sharing)
+[VGG19](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
+
 ### 2.Train
 ```
 python CartoonGAN.py --name cartoonShinkaiStyle --src_data src_data --tgt_data tgt_data --vgg_model vgg19.pth
@@ -17,6 +17,8 @@ python test2.py --pre_trained_model generator_latest.pkl --image_dir image_dir -
 ```
 
 ### 4.Result
+Trained neural network model:
+[CartoonGAN model](https://drive.google.com/file/d/1ED74si4FqZKZlsrsRjWkODxa_xBlOdPD/view?usp=sharing)
 #### CartoonGAN
 <table align='center'>
 <tr align='center'>
