@@ -12,13 +12,13 @@
 python CartoonGAN.py --name cartoonShinkaiStyle --src_data src_data --tgt_data tgt_data --vgg_model vgg19.pth
 ```
 ### 3.Test
+Trained neural network model:
+[CartoonGAN model](https://drive.google.com/file/d/1ED74si4FqZKZlsrsRjWkODxa_xBlOdPD/view?usp=sharing)
 ```
 python test2.py --pre_trained_model generator_latest.pkl --image_dir image_dir --output_image_dir result
 ```
 
 ### 4.Result
-Trained neural network model:
-[CartoonGAN model](https://drive.google.com/file/d/1ED74si4FqZKZlsrsRjWkODxa_xBlOdPD/view?usp=sharing)
 #### CartoonGAN
 <table align='center'>
 <tr align='center'>
