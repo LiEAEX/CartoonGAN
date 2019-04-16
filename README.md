@@ -1,7 +1,7 @@
 # CSCE636Project
 * Pytorch implementation of CartoonGAN(CVPR 2018)
 * The pytorchCart folder contains all the code for train and the moTest contains all the code for test.
-* Because of size limitation, I will not attach the dataset for training here.
+* Because of size limitation, I attach a google drive link for the training dataset in folder Dataset.
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
 ### 1.Download model
