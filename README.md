@@ -1,4 +1,5 @@
-# Pytorch implementation of CartoonGAN(CVPR 2018)
+# CartoonGAN
+* Pytorch implementation of CartoonGAN(CVPR 2018)
 * The pytorchCart folder contains all the code for train and the moTest contains all the code for test.
 * I do not attach any dataset here.
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
