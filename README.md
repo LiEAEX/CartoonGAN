@@ -1,6 +1,8 @@
 # CartoonGAN
-* Pytorch implementation of CartoonGAN(CVPR 2018)
-* The pytorchCart folder contains all the code for train and the moTest contains all the code for test.
+* Pytorch implementation of CartoonGAN(CVPR 2018) 
+* The code is based on [CartoonGAN-Pytorch](https://github.com/znxlwm/pytorch-CartoonGAN) with some changes
+* The pytorchCart folder contains all the code for training and the moTest contains all the code for test.
+* Build a simple GUI based on Tkinker
 * I do not attach any dataset here.
 * As for video demo, you can check it here: https://youtu.be/0rBYc4kZztU
  
