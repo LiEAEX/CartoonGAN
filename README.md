@@ -1,5 +1,5 @@
 # CartoonGAN
-* Pytorch implementation of CartoonGAN(CVPR 2018) 
+* Pytorch implementation of CartoonGAN(Shinkai Style) 
 * The code is based on [CartoonGAN-Pytorch](https://github.com/znxlwm/pytorch-CartoonGAN) with some changes
 * The pytorchCart folder contains all the code for training and the moTest contains all the code for test.
 * Build a simple GUI based on Tkinker
